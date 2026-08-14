@@ -3,9 +3,8 @@ backend:
   name: github
   repo: chunyun1998-sudo/jack-3d-creator
   branch: main
-  # 使用 Netlify 免费 OAuth 代理完成 GitHub 登录（不存储任何内容数据）
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  auth_type: implicit
+  app_id: Ov23likOI5ZBm0jbjIgP
 
 # 上传的图片统一存入仓库 public/uploads 目录，页面中以 /uploads/... 引用
 media_folder: public/uploads
