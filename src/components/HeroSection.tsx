@@ -53,7 +53,7 @@ export default function HeroSection() {
           >
             <img
               src={hero.portrait}
-              alt="Jack"
+              alt="Carter"
               draggable={false}
               className="h-auto w-full select-none"
             />

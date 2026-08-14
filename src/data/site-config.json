@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Jack -- 3D Creator"
+    "title": "Carter -- 3D Creator"
   },
   "theme": {
     "background": "#0C0C0C",
@@ -11,9 +11,9 @@
   },
   "hero": {
     "navLinks": ["About", "Price", "Projects", "Contact"],
-    "heading": "Hi, i'm jack",
+    "heading": "Hi, i'm carter",
     "subheading": "a 3d creator driven by crafting striking and unforgettable projects",
-    "portrait": "/jack_portrait_20260809_v2.png"
+    "portrait": "/carter_portrait_20260809_v2.png"
   },
   "marquee": {
     "row1": [

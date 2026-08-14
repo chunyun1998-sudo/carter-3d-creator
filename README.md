@@ -1,4 +1,4 @@
-# Jack 3D Creator — 3D 创作者个人作品集网站
+# Carter 3D Creator — 3D 创作者个人作品集网站
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
@@ -13,7 +13,7 @@ A single-page portfolio website for a 3D creator, showcasing personal brand, ser
 
 ### 项目简介
 
-这是 3D 创作者 Jack 的个人作品集网站。整站为单页滚动布局，包含 Hero 首屏、关于我、服务列表、项目展示和联系入口五个区块，以及一条滚动的作品展示跑马灯。网站内容不写死在组件里，而是集中放在 `src/data/site-config.json`，改文案、换图片、调主题色都不需要动代码。
+这是 3D 创作者 Carter 的个人作品集网站。整站为单页滚动布局，包含 Hero 首屏、关于我、服务列表、项目展示和联系入口五个区块，以及一条滚动的作品展示跑马灯。网站内容不写死在组件里，而是集中放在 `src/data/site-config.json`，改文案、换图片、调主题色都不需要动代码。
 
 ### 功能特性
 
@@ -93,7 +93,7 @@ npm run lint       # 运行 oxlint 代码检查
 
 ### Overview
 
-A single-page portfolio website built for Jack, a 3D creator. The page features five sections: hero, about, services, projects and contact, plus a scrolling marquee of showcase works. All content lives in `src/data/site-config.json`, so updating copy, swapping images or changing the theme colors requires no code changes.
+A single-page portfolio website built for Carter, a 3D creator. The page features five sections: hero, about, services, projects and contact, plus a scrolling marquee of showcase works. All content lives in `src/data/site-config.json`, so updating copy, swapping images or changing the theme colors requires no code changes.
 
 ### Features
 

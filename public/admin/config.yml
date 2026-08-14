@@ -1,7 +1,7 @@
 # 可视化内容后台配置（Decap CMS）
 backend:
   name: github
-  repo: chunyun1998-sudo/jack-3d-creator
+  repo: chunyun1998-sudo/carter-3d-creator
   branch: main
   auth_type: implicit
   app_id: Ov23likOI5ZBm0jbjIgP
